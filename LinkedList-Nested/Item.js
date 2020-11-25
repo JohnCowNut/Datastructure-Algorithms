@@ -5,6 +5,4 @@ class Item {
         this.next = null;
     }
 }
-// === ADD item ; Client ? <= Item 
-
 module.exports = Item;
